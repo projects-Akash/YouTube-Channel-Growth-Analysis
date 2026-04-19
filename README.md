@@ -28,7 +28,8 @@ using Python and visualized findings in an interactive Power BI dashboard.
 | `screenshots/` | Dashboard preview images |
 
 ## Dashboard Preview
-[add screenshot image here after uploading]
+![Dashboard Overview](screenshots/SR_dashboard_screenshot_1.png)
+![Dashboard Overview](screenshots/SR_dashboard_screenshot_2.png)
 
 ## How to Run
 1. Open `.pbix` file in Power BI Desktop (free download from Microsoft)
