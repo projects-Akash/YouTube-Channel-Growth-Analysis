@@ -29,6 +29,7 @@ using Python and visualized findings in an interactive Power BI dashboard.
 
 ## Dashboard Preview
 ![Dashboard Overview](screenshots/SR_dashboard_screenshot_1.png)
+
 ![Dashboard Overview](screenshots/SR_dashboard_screenshot_2.png)
 
 ## How to Run
